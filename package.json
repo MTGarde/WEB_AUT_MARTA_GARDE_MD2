@@ -1,0 +1,23 @@
+{
+  "name": "web_aut_marta_garde_md2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTGarde/WEB_AUT_MARTA_GARDE_MD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MTGarde/WEB_AUT_MARTA_GARDE_MD2/issues"
+  },
+  "homepage": "https://github.com/MTGarde/WEB_AUT_MARTA_GARDE_MD2#readme",
+  "devDependencies": {
+    "cypress": "^14.3.1"
+  }
+}
